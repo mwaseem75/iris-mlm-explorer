@@ -1,0 +1,2 @@
+[console_scripts]
+iris-dollar-list = dollar_list.main:main

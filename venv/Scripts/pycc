@@ -1,0 +1,3 @@
+#!C:\Users\mazeem\Desktop\AI-ML Contest\OE-apps\isoe\venv\Scripts\python.exe
+from numba.pycc import main
+main()
