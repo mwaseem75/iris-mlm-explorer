@@ -1,2 +1,2 @@
-# iris-mlm-explorer
-IRIS Machine Learning Models explorer
+
+![](https://github.com/mwaseem75/iris-mlm-explorer/blob/main/irisMLMExp.gif)
